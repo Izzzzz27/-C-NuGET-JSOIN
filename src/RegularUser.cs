@@ -1,3 +1,12 @@
-public class RegularUser : User {
-    public string role => "user";
+using UserSerializationProject.Models;
+
+namespace UserSerializationProject
+{
+    public class RegularUser : User 
+    {
+        public RegularUser()
+        {
+            role = "user";
+        }
+    }
 }
