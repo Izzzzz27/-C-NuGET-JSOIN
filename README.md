@@ -1,4 +1,4 @@
-#Every .cs file other than program.cs is in src folder, if the program can't find the paths for the other files, just move them to the root folder.
+# Every .cs file other than program.cs is in src folder, if the program can't find the paths for the other files, just move them to the root folder.
 
 
 # user serialization
